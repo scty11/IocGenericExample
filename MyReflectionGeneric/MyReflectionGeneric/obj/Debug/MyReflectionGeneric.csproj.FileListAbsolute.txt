@@ -1,0 +1,6 @@
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyReflectionGeneric\bin\Debug\MyReflectionGeneric.exe.config
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyReflectionGeneric\bin\Debug\MyReflectionGeneric.exe
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyReflectionGeneric\bin\Debug\MyReflectionGeneric.pdb
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyReflectionGeneric\obj\Debug\MyReflectionGeneric.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyReflectionGeneric\obj\Debug\MyReflectionGeneric.exe
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyReflectionGeneric\obj\Debug\MyReflectionGeneric.pdb

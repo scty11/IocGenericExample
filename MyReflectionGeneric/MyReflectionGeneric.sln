@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyReflectionGeneric", "MyReflectionGeneric\MyReflectionGeneric.csproj", "{D070062B-D687-4281-8684-5C4742C7691B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestsIOC", "MyTestsIOC\MyTestsIOC.csproj", "{B8A0B705-7712-452A-A356-6444CCE74A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D070062B-D687-4281-8684-5C4742C7691B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D070062B-D687-4281-8684-5C4742C7691B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D070062B-D687-4281-8684-5C4742C7691B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D070062B-D687-4281-8684-5C4742C7691B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A0B705-7712-452A-A356-6444CCE74A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A0B705-7712-452A-A356-6444CCE74A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A0B705-7712-452A-A356-6444CCE74A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A0B705-7712-452A-A356-6444CCE74A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

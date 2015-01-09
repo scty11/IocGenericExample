@@ -1,0 +1,7 @@
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyTestsIOC\obj\Debug\MyTestsIOC.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyTestsIOC\bin\Debug\MyTestsIOC.dll
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyTestsIOC\bin\Debug\MyTestsIOC.pdb
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyTestsIOC\bin\Debug\MyReflectionGeneric.exe
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyTestsIOC\bin\Debug\MyReflectionGeneric.pdb
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyTestsIOC\obj\Debug\MyTestsIOC.dll
+C:\Users\scottyboi\Documents\jquery\code\delEvLamda\MyReflectionGeneric\MyTestsIOC\obj\Debug\MyTestsIOC.pdb
